@@ -1,5 +1,4 @@
 from tkinter import *
-import tkinter.messagebox
 from matplotlib import pyplot as plt
 from ProjectileMotion import *
 
